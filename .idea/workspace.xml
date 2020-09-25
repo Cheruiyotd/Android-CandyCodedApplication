@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
@@ -164,13 +163,29 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="override onOptionsItemSelected">
+      <created>1601071232356</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601071232356</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="override onOptionsItemSelected" />
+    <option name="LAST_COMMIT_MESSAGE" value="override onOptionsItemSelected" />
   </component>
   <component name="WindowStateProjectService">
     <state x="605" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1601071147984">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="605" y="158" key="#com.intellij.ide.util.MemberChooser/0.0.1600.900@0.0.1600.900" timestamp="1601071147984" />
+    <state x="319" y="43" key="CommitChangelistDialog2" timestamp="1601071229620">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="319" y="43" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1601071229620" />
     <state width="1540" height="226" key="GridCell.Tab.0.bottom" timestamp="1601070752326">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
@@ -187,6 +202,10 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state width="1540" height="226" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1601070752326" />
+    <state x="392" y="182" key="Vcs.Push.Dialog.v2" timestamp="1601071306655">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="392" y="182" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1601071306655" />
     <state x="495" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1601070782143">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
